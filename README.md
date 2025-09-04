@@ -1,5 +1,5 @@
 # Data_Structure_and_Algorithms_Presentations
-List of presentations I have delivered at iCodeGuru during different sessions of DSA
+List of presentations I have delivered at iCodeGuru during sessions of DSA
 ## 4PM DSA with LeetCode Class Recordings
 
 ---
